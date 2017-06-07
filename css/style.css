@@ -1071,3 +1071,9 @@ a.scrollup:hover{
 	background-color:#ED502E;
 	color:#fff;;	
 }
+/**
+ASR Custom Styles:
+**/
+.asr-p {
+  text-align: justify;
+}
