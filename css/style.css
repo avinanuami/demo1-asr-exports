@@ -159,6 +159,15 @@ a:hover {
     width: 100%;
 }
 
+/*.bx-wrapper img {
+    margin: 0 auto;
+    min-height: 400px;
+}
+
+.bx-wrapper .bx-pager {
+    margin-left: 50px;
+}*/
+
 .box {
 	margin-top:70px;
 	text-align:center;	
@@ -1076,4 +1085,9 @@ ASR Custom Styles:
 **/
 .asr-p {
   text-align: justify;
+}
+
+.peoples {
+    text-align: center;
+    margin-top: 60px;
 }

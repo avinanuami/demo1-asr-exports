@@ -1,6 +1,6 @@
 (function ($) {
 
-
+	$(".portfolio-items").prepend("<p>Avinash Jadhav</p>");
 			
 	$('.bxslider').bxSlider({
 	  mode: 'vertical',
@@ -51,7 +51,7 @@
     function initialize_google_map() {
         var myLatlng = new google.maps.LatLng(get_latitude, get_longitude);
         var mapOptions = {
-            zoom: 14,
+            zoom: 15,
             scrollwheel: false,
             center: myLatlng
         };
